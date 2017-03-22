@@ -5,7 +5,7 @@
         defaults = {
             width: '200',
             height: '350',
-            position: 'topLeft',
+            position: 'left',
             fadeTime: 100,
             iconColor: 'black',
             iconBackgroundColor: '#eee',
@@ -14,8 +14,8 @@
             container: 'body',
             button: true,
             buttonPosition: "left",
-            enableSearch: false,
-            showDailyEmoji: false
+            enableSearch: true,
+            showDailyEmoji: true
         };
 
     var MIN_WIDTH = 280,
