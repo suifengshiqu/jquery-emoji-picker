@@ -93,10 +93,10 @@ Whether to show the emoji button on the input or not. Defaults to true. If you h
 The IconButton position "left" or "right", Defualt to "left".
 
 ### enableSearch ###
-Control to show or hide the searchInput, Default to false.
+Control to show or hide the searchInput, Default to true.
 
 ### showDailyEmoji ###
-Enable to show the DailyEmoji, Default to false.
+Enable to show the DailyEmoji, Default to true.
 
 ### position ###
 The picker panel position, value of ["left", "right", "topLeft", "topRight"].
